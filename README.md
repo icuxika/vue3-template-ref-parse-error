@@ -1,5 +1,5 @@
 ## Q
-parsing ref<string>("") via baseParse(@vue/compiler-core) raises an error
+parsing ref\<string\>("") via baseParse(@vue/compiler-core) raises an error
 
 ## How to reproduce this issue
 Run
